@@ -1,5 +1,4 @@
-This repository is forked from [kenshohara/video-classification-3d-cnn](https://github.com/kenshohara/video-classification-3d-cnn) and is used to extracted 3D features of videos for [Non-Autoregressive-Video-Captioning](https://github.com/yangbang18/Non-Autoregressive-Video-Captioning).
-
+This repository is forked from [kenshohara/video-classification-3d-cnn](https://github.com/kenshohara/video-classification-3d-cnn) and is used to extracted 3D features of videos
 Example code:
 ```
 # extracting snippets of 16 frames with 8 frames overlapping
