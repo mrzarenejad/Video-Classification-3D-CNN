@@ -1,4 +1,4 @@
-This repository is forked from [kenshohara/video-classification-3d-cnn](https://github.com/kenshohara/video-classification-3d-cnn) and is used to extracted 3D features of videos
+This repository is forked from [kenshohara/video-classification-3d-cnn](https://github.com/kenshohara/video-classification-3d-cnn) and is used to extracted 3D features of videos for [Non-Autoregressive-Video-Captioning](https://github.com/yangbang18/Non-Autoregressive-Video-Captioning).
 
 Example code:
 ```
@@ -52,7 +52,7 @@ cd ./ffmpeg-3.3.3-64bit-static/; sudo cp ffmpeg ffprobe /usr/local/bin;
 ## Preparation
 * Download this code.
 * Download the [pretrained model](https://drive.google.com/drive/folders/1zvl89AgFAApbH0At-gMuZSeQB_LpNP-M?usp=sharing).  
-
+  * ResNeXt-101 achieved the best performance in our experiments. (See [paper](https://arxiv.org/abs/1711.09577) in details.)
 
 ## Usage
 Assume input video files are located in ```./videos```.
